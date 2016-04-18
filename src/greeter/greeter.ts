@@ -3,6 +3,6 @@ export class Greeter {
     }
 
     greet(): string {
-        return "Hello " + this.message;
+        return "Ciao " + this.message;
     }
 }
